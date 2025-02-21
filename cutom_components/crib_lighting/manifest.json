@@ -1,0 +1,10 @@
+{
+  "domain": "home_assistant_crib_lighting",
+  "name": "Home Assistant Crib Lighting",
+  "documentation": "https://github.com/devatcratustech/home_assistant_crib_lighting",
+  "dependencies": [],
+  "codeowners": ["@devatcratustech"],
+  "requirements": [],
+  "version": "1.0.0",
+  "iot_class": "local_polling"
+}
